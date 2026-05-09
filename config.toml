@@ -24,6 +24,7 @@ build-mode = "both"
 [PrimeVideo]
 app-name="Prime Video"
 uptodown-dlurl = "https://amazon-video.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-prime-video/"
 patches-source = "hoo-dles/morphe-patches"
 build-mode = "apk"
 included-patches = "'Skip ads' 'Enable speed control'"
@@ -31,6 +32,7 @@ exclusive-patches = true
 cli-source = "MorpheApp/morphe-cli"
 patches-version = "dev"
 cli-version = "latest"
+version=
 #enabled=false
 
 [Twitter]
