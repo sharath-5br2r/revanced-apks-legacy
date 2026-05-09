@@ -32,7 +32,6 @@ exclusive-patches = true
 cli-source = "MorpheApp/morphe-cli"
 patches-version = "dev"
 cli-version = "latest"
-version=
 #enabled=false
 
 [Twitter]
